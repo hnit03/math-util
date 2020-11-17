@@ -1,7 +1,6 @@
-#Welcome to Math Utility Repo
+# Welcome to Math Utility Repo
 
-### This repo contains the Java source code to simualate the methods of Math 
-class found in JDK
+### This repo contains the Java source code to simualate the methods of Math class found in JDK
 
 ## You will find in this repo:
 * Math Utility source code
@@ -9,7 +8,7 @@ class found in JDK
 * README.md - this file itself to show the homepage of this repo
 
 ## Connect me via
-[Facebook](https://facebook.com/cookies.vy)
-[Email](mailto:hoangnhinguyen33@gmail.com)
+1. [Facebook](https://facebook.com/cookies.vy)
+2. [Email](mailto:hoangnhinguyen33@gmail.com)
 
 #### © 2020 bt hnit03
